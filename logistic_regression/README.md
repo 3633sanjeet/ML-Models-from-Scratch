@@ -36,9 +36,9 @@ pip install numpy pandas scikit-learn
 ```
 
 ## Summary of results from Scratch vs SKlearn. 
-#### Overall, the Accuracies, Precision, Recall values are almost same for both scratch vs sklearn implementation
-#### Small differences in leanet weight values as we used simple implementation of gradient descent algorithm and did not use better strategies 
-#### like dynamic learning rate etc; As the purpose was to implement logistic regression from scratch for learning purposes using only basic libraries like numpy and pandas; Objective was #### not to full optimize the scratch implementation
+Overall, the Accuracies, Precision, Recall values are almost same for both scratch vs sklearn implementation
+Small differences in leanet weight values as we used simple implementation of gradient descent algorithm and did not use better strategies 
+like dynamic learning rate etc; As the purpose was to implement logistic regression from scratch for learning purposes using only basic libraries like numpy and pandas; Objective was #### not to full optimize the scratch implementation
 ### *************************Scratch Logistic Results**************************************
 Model intercept using Scratch Logistic implementation is: [-2.43]
 Model coefficient using Scratch Logistic implementation are: [[-3.34] [ 2.12]]
