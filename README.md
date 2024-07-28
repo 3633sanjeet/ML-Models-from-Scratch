@@ -11,5 +11,3 @@ This repository contains implementations of various machine learning models from
 ## License
 
 This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software, as long as you include the original copyright notice and this license in any substantial portions of the software.
-
-Citation is appreciated.
