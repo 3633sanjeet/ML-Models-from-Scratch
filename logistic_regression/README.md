@@ -55,8 +55,4 @@ Testing Recall of sklearn model: 92.94 %
 ### ***************************************************************
 
 
-## License
 
-This project is licensed under the MIT License. You are free to use, copy, modify, and distribute this software, as long as you include the original copyright notice and this license in any substantial portions of the software.
-
-Citation is appreciated but not required.
